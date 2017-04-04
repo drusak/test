@@ -1,3 +1,4 @@
 [submodule "android"]
 	path = android
 	url = git@github.com:drusak/test.git
+	ignore = all
